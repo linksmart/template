@@ -42,4 +42,4 @@ Please fork, make your changes, and submit a pull request. For major changes, pl
 
 * The above templace is adapted from [[1](https://www.makeareadme.com), [2](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [3](https://github.com/dbader/readme-template)].
 * Versioning: Use [SemVer](http://semver.org/) and tag the repository with full version string. E.g. `v1.0.0`
-* License: Provide a [LICENSE](LICENSE) file at the root level. 
+* License: Provide a [LICENSE](LICENSE) file at the root level. You can use Github to [add a license](https://help.github.com/en/articles/adding-a-license-to-a-repository).
