@@ -1,22 +1,22 @@
 # Foobar
-> Short description of the project. 
+[//]: # (Comment: Short description of the project.)
 
 Foobar is a Python library for dealing with word pluralization.
 
 ## Getting Started
-> Instruction to make the project up and running.
+[//]: # (Comment: Instruction to make the project up and running.)
 
 The project documentation is available on the [Wiki](https://github.com/cpswarm/template/wiki).
 
 ### Deployment
-> Deployment/Installation instructions.
+[//]: # (Comment: Deployment/Installation instructions.)
 
 ```bash
 docker run -p 8080:80 nginx
 ```
 
 ### Development
-> Developer instructions.
+[//]: # (Comment: Developer instructions.)
 
 #### Prerequisite
 This projects depends on ZeroMQ. Installation instructions are available [here](http://zeromq.org/intro:get-the-software)
@@ -40,7 +40,10 @@ Please make sure to update tests (if any) as appropriate.
 ## License
 [Apache v2.0](LICENSE)
 
+
 # Notes
+> Remove this section from the actual readme.
+
 The above templace is adapted from [[1](https://www.makeareadme.com), [2](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [3](https://github.com/dbader/readme-template)].
 
 ## Versioning
