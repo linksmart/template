@@ -1,7 +1,7 @@
 # Foobar
 <!-- Short description of the project. -->
 
-Foobar is not a real software. The name is used here as placeholder for a described software.
+Foobar is not a real software. The name is used here as placeholder for a described software. This readme is meant for describing an application but can be adapted to describe a software libraries by changing `Deployment` section to `Usage`. 
 
 ## Getting Started
 <!-- Instruction to make the project up and running. -->
@@ -33,7 +33,9 @@ g++ -o app app.cpp
 ```
 
 ## Contributing
-Contributions are welcome. Please fork, make your changes, and submit a pull request. For major changes, please open an issue first and discuss it with the other authors.
+Contributions are welcome. 
+
+Please fork, make your changes, and submit a pull request. For major changes, please open an issue first and discuss it with the other authors.
 
 # Notes
 > Remove this section from the actual readme.
