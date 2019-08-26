@@ -46,5 +46,5 @@ This work is supported by the European Commission through the [CPSwarm H2020 pro
 > * The above templace is adapted from [[1](https://www.makeareadme.com), [2](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [3](https://github.com/dbader/readme-template)].
 > * Versioning: Use [SemVer](http://semver.org/) and tag the repository with full version string. E.g. `v1.0.0`
 > * License: Provide a [LICENSE](LICENSE) file at the root level. You can use Github to [add a license](https://help.github.com/en/articles/adding-a-license-to-a-repository). Don't forget to replace the [placeholders in the license file](https://github.com/cpswarm/template/blob/master/LICENSE#L189).  
-
+>
 > *Remove this section from the actual readme.*
