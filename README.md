@@ -11,6 +11,7 @@ The project documentation is available on the [Wiki](https://github.com/cpswarm/
 ### Deployment
 <!-- Deployment/Installation instructions. If this is software library, change this section to "Usage" and give usage examples -->
 
+Run with docker:
 ```bash
 docker run -p 8080:80 foobar
 ```
@@ -40,8 +41,10 @@ Please fork, make your changes, and submit a pull request. For major changes, pl
 
 > # Notes
 >
-> * The above templace is adapted from [[1](https://www.makeareadme.com), [2](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [3](https://github.com/dbader/readme-template)].
-> * Versioning: Use [SemVer](http://semver.org/) and tag the repository with full version string. E.g. `v1.0.0`
-> * License: Provide a [LICENSE](LICENSE) file at the root level. You can use Github to [add a license](https://help.github.com/en/articles/adding-a-license-to-a-repository).  
+> * The above template is adapted from [[1](https://www.makeareadme.com), [2](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [3](https://github.com/dbader/readme-template)].
+> * Versioning: Use [Semantic Versioning](http://semver.org/) and tag the repository with full version string. E.g. `v1.0.0`
+> * Licensing: 
+>     * Provide a [LICENSE](LICENSE) file at the top level of the source tree. You can use Github to [add a license](https://help.github.com/en/articles/adding-a-license-to-a-repository). This template repository has an Apache 2.0 license.
+>     * Provide a [NOTICE](NOTICE) file at the top level of the source tree with the name of your project.
 >
 > *Remove this section from the actual readme.*
