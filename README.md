@@ -20,11 +20,11 @@ docker run -p 8080:80 foobar
 <!-- Developer instructions. -->
 
 #### Prerequisite
-This projects depends on ZeroMQ. Installation instructions are available [here](http://zeromq.org/intro:get-the-software)
+This projects depends on XYZ. Installation instructions are available [here](http://xyz)
 
 On Debian:
 ```bash
-apt install libzmq3-dev
+apt install xyz
 ```
 
 #### Build
