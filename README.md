@@ -6,17 +6,17 @@ Foobar is not a real software. The name is used here as placeholder for a descri
 ## Getting Started
 <!-- Instruction to make the project up and running. -->
 
-The project documentation is available on the [Wiki](https://github.com/cpswarm/template/wiki).
+* Read the [Documentation](https://github.com/cpswarm/template/wiki)
 
-### Deployment
+## Deployment
 <!-- Deployment/Installation instructions. If this is software library, change this section to "Usage" and give usage examples -->
 
-Run with docker:
+### Docker
 ```bash
 docker run -p 8080:80 foobar
 ```
 
-### Development
+## Development
 <!-- Developer instructions. -->
 
 #### Prerequisite
