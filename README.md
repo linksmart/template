@@ -1,7 +1,9 @@
 # Foobar
 <!-- Short description of the project. -->
 
-Foobar is not a real software. The name is used here as placeholder for a described software. This readme is meant for describing an application but can be adapted to describe a software library by changing `Deployment` section to `Usage`. A teaser image may be added below this paragraph.
+Foobar is not a real software. The name is used here as placeholder for a described software. This readme is meant for describing an application but can be adapted to describe a software library by changing `Deployment` section to `Usage`. 
+
+> An optional teaser figure
 
 ## Getting Started
 <!-- Explanation on where to start. Short description or links. -->
