@@ -3,8 +3,10 @@
 
 Foobar is not a real software. The name is used here as placeholder for a described software. This readme is meant for describing an application but can be adapted to describe a software library by changing `Deployment` section to `Usage`. 
 
+> An optional teaser figure
+
 ## Getting Started
-<!-- Instruction to make the project up and running. -->
+<!-- Explanation on where to start. Short description or links. -->
 
 * Read the [Documentation](https://github.com/cpswarm/template/wiki)
 
