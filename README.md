@@ -21,7 +21,7 @@ docker run -p 8080:80 foobar
 ## Development
 <!-- Developer instructions. -->
 
-#### Prerequisite
+### Prerequisite
 This projects depends on XYZ. Installation instructions are available [here](http://xyz)
 
 On Debian:
@@ -29,10 +29,14 @@ On Debian:
 apt install xyz
 ```
 
-#### Build
-
+### Build
 ```bash
 g++ -o app app.cpp
+```
+
+### Test
+```bash
+sh test.sh
 ```
 
 ## Contributing
