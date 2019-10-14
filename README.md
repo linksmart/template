@@ -8,7 +8,7 @@ Foobar is not a real software. The name is used here as placeholder for a descri
 ## Getting Started
 <!-- Explanation on where to start. Short description or links. -->
 
-* Read the [Documentation](https://github.com/cpswarm/template/wiki)
+* Read the [Documentation](https://github.com/linksmart/template/wiki)
 
 ## Deployment
 <!-- Deployment/Installation instructions. If this is software library, change this section to "Usage" and give usage examples -->
